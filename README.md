@@ -1,5 +1,4 @@
-# Guess-number
-kt1
+Guess-number kt1
 
 # Запуск
 - npm install zeromq
